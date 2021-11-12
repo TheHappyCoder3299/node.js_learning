@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_project",
+  "version": "1.0.0",
+  "description": "node.js learning project",
+  "main": "events_module.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anwit Mondal",
+  "license": "ISC"
+}
